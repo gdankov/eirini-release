@@ -1,3 +1,5 @@
+:wave:
+
 # Eirini Release
 
 This is a `helm` release for Project [Eirini](https://code.cloudfoundry.org/eirini).
